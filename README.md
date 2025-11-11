@@ -6,7 +6,7 @@ A collection of my verified certifications across data science, project manageme
 
 ## 🧠 Data & Analytics
 
-| Certification | Issuer | Proof |
+| Certification | Issuer | Certificate |
 |----------------|---------|--------|
 | <br> **MIT Professional Certificate in Data Science and Analytics** | MIT xPRO | [View PDF](./pdfs/mit_datascience_analytics.pdf) |
 | <img src="./images/microsoft_powerbi.png" width="240"/> <br> **Microsoft Power BI Data Analyst (PL-300)** | Microsoft | [View PDF](./pdfs/microsoft_powerbi.pdf) |
@@ -16,7 +16,7 @@ A collection of my verified certifications across data science, project manageme
 
 ## 🏗 Project Management & IT
 
-| Certification | Issuer | Proof |
+| Certification | Issuer | Certificate |
 |----------------|---------|--------|
 | <img src="./images/pmp.png" width="240"/> <br> **Project Management Professional (PMP)** | Project Management Institute | [View PDF](./pdfs/pmp.pdf) |
 | <img src="./images/itil.png" width="240"/> <br> **ITIL 4 Foundation** | Axelos | [View PDF](./pdfs/itil.pdf) |
@@ -26,7 +26,7 @@ A collection of my verified certifications across data science, project manageme
 
 ## 💊 Healthcare & Informatics (In Progress)
 
-| Certification | Issuer | Proof |
+| Certification | Issuer | Certificate |
 |----------------|---------|--------|
 | <br> **Certified Associate in Healthcare Information and Management Systems (CAHIMS)** | HIMSS | [View PDF](./pdfs/cahims.pdf) |
 
@@ -35,13 +35,11 @@ A collection of my verified certifications across data science, project manageme
 ## 🧩 Badge Wall (Visual Overview)
 
 <p align="center">
-  <img src="./images/mit_datasci_analytics.png" width="120"/>
   <img src="./images/microsoft_powerbi.png" width="120"/>
   <img src="./images/microsoft_excel_expert.png" width="120"/>
   <img src="./images/pmp.png" width="120"/>
   <img src="./images/itil.png" width="120"/>
   <img src="./images/csm.png" width="120"/>
-  <img src="./images/cahims.png" width="120"/>
 </p>
 
 ---
